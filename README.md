@@ -20,4 +20,4 @@ This is the front-end part of the web application
 ### Visualization
 
 ![Landing Page](/public/woroutbuddy_main.png)
-![Login site](/public/woroutebuddy_signup.png)
+![Signup site](/public/woroutbuddy_signup.png)
